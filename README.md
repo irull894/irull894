@@ -9,19 +9,13 @@ I'm a passionate **Web Developer from Indonesia** who focuses on building modern
 
 ### 🔭 I've built:
 - 📚 E-Learning Website  
-- 🎓 School Management System  
-- 📱 QR Code Attendance System  
+- 🎓 School Management System   
 - 🧑‍🏫 Counseling & Monitoring Application  
 
 ### 🌱 Currently learning & improving:
 - Laravel · PHP · MySQL  
-- HTML & CSS · Tailwind CSS · JavaScript  
+- HTML & CSS · Tailwind CSS · boostrap · JavaScript  
 - Full Stack Web Development  
-
-### 🎯 2026 Goals:
-- ✅ Build 5+ freelance projects  
-- 🚀 Launch personal portfolio website  
-- ☕ Become a professional freelance web developer  
 
 ---
 
@@ -32,6 +26,8 @@ I'm a passionate **Web Developer from Indonesia** who focuses on building modern
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -43,22 +39,19 @@ I'm a passionate **Web Developer from Indonesia** who focuses on building modern
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS laragon](https://img.shields.io/badge/laragon-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irull894&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irull894&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
-</div>
-
----
 
 ## 🧠 Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<br><br>
 
 ---
 
@@ -77,8 +70,6 @@ I'm a passionate **Web Developer from Indonesia** who focuses on building modern
 
 ###
 
-<img src="https://raw.githubusercontent.com/irull894/irull894/snake-output/snake.svg" alt="Snake animation" />
-
-###
+---
 
 ⭐ **Thanks for visiting!** Let's build something awesome together 🚀
