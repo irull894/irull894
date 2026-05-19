@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Irul
+![irull894](img/github-header-banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=38B2AC&center=false&vCenter=true&width=435&lines=Web+Developer+from+Indonesia;Laravel+Enthusiast;Fullstack+Learner;Freelance+Ready)](https://git.io/typing-svg)
 
@@ -48,8 +49,9 @@ I'm a passionate **Web Developer from Indonesia** who focuses on building modern
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=irull894&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irull894&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irull894&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <br/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irull894&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 ---
@@ -67,5 +69,16 @@ I'm a passionate **Web Developer from Indonesia** who focuses on building modern
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usernameanda) <!-- tambah kalau punya -->
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irull894/irull894/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irull894/irull894/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/irull894/irull894/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/irull894/irull894/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 ⭐ **Thanks for visiting!** Let's build something awesome together 🚀
