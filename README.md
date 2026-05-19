@@ -1,29 +1,34 @@
-# Hi there 👋, I'm Irul
+# 👋 Hi there, I'm Irul
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=38B2AC&center=false&vCenter=true&width=435&lines=Web+Developer+from+Indonesia;Laravel+Enthusiast;Fullstack+Learner;Freelance+Ready)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-I'm a passionate Web Developer from Indonesia who focuses on building modern and responsive web applications.
 
-Currently learning and improving my skills in:
-- Laravel
-- PHP
-- MySQL
-- HTML & CSS
-- Tailwind CSS
-- JavaScript
+I'm a passionate **Web Developer from Indonesia** who focuses on building modern, responsive, and useful web applications — especially for **education** and **school management** sectors.
 
-I enjoy creating useful systems such as:
-- 📚 E-Learning Website
-- 🎓 School Management System
-- 📱 QR Code Attendance System
-- 🧑‍🏫 Counseling & Monitoring Application
+### 🔭 I've built:
+- 📚 E-Learning Website  
+- 🎓 School Management System  
+- 📱 QR Code Attendance System  
+- 🧑‍🏫 Counseling & Monitoring Application  
+
+### 🌱 Currently learning & improving:
+- Laravel · PHP · MySQL  
+- HTML & CSS · Tailwind CSS · JavaScript  
+- Full Stack Web Development  
+
+### 🎯 2026 Goals:
+- ✅ Build 5+ freelance projects  
+- 🚀 Launch personal portfolio website  
+- ☕ Become a professional freelance web developer  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -34,31 +39,33 @@ I enjoy creating useful systems such as:
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-## 📌 Current Focus
-- 🌱 Learning Full Stack Web Development
-- 💼 Building portfolio for freelance projects
-- ⚡ Improving Laravel backend skills
-- 🎯 Becoming a professional freelance web developer
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irull894&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=irull894&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irull894&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 ---
 
-## 🔥 Most Used Languages
+## 🧠 Random Dev Quote
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irull894&layout=compact&langs_count=8&theme=tokyonight"/>
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/irull894
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irull894)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/irull894) <!-- ganti jika ada -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usernameanda) <!-- tambah kalau punya -->
+
+---
+
+⭐ **Thanks for visiting!** Let's build something awesome together 🚀
