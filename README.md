@@ -46,16 +46,6 @@ I'm a passionate **Web Developer from Indonesia** who focuses on building modern
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irull894&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irull894&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
-</div>
-
----
-
 ## 🧠 Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
