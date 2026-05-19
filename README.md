@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi there 👋, I'm Irul
 
-<!--
-**irull894/irull894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Web Developer from Indonesia who focuses on building modern and responsive web applications.
 
-Here are some ideas to get you started:
+Currently learning and improving my skills in:
+- Laravel
+- PHP
+- MySQL
+- HTML & CSS
+- Tailwind CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating useful systems such as:
+- 📚 E-Learning Website
+- 🎓 School Management System
+- 📱 QR Code Attendance System
+- 🧑‍🏫 Counseling & Monitoring Application
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📌 Current Focus
+- 🌱 Learning Full Stack Web Development
+- 💼 Building portfolio for freelance projects
+- ⚡ Improving Laravel backend skills
+- 🎯 Becoming a professional freelance web developer
+
+---
+
+## 📊 GitHub Stats
+
+![Irul's GitHub stats](https://github-readme-stats.vercel.app/api?username=irull894&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irull894&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/irull894
+
+---
+
+⭐ Thanks for visiting my profile!
