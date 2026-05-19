@@ -43,11 +43,6 @@ I'm a passionate **Web Developer from Indonesia** who focuses on building modern
 
 ---
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 98b0b5fb7dbf27e5915e0597b03e22895eeb7c9e
 ## 🧠 Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
